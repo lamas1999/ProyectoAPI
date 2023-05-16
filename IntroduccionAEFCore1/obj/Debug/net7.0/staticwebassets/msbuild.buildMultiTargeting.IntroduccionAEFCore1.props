@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\IntroduccionAEFCore1.props" />
+</Project>

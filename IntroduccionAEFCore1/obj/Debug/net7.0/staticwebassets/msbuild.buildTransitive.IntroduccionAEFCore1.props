@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\IntroduccionAEFCore1.props" />
+</Project>
